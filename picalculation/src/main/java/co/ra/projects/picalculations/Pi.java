@@ -1,5 +1,5 @@
 package co.ra.projects.picalculations;
 
-public class pi {
+public class Pi {
 
 }
